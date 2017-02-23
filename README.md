@@ -35,6 +35,14 @@ Network of Mutiple Nodes
 - The alternative, obvious protocol choice is the [WiFi/IEEE-802.11](https://en.wikipedia.org/wiki/IEEE_802.11) protocol used with LAN... which is relatively very high power, high bandwidth, and depends on local network uptime. (This WiFi protocol may not be the best suited choice?)
 - Also note, [Noric semi](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy) makes so many different modules for: BLE, ANT, 2.4 GHZ RF, SUB 1-GHZ RF, ...
 
+<p align="center">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/NRF24L01.png" width="200">
+</p>
+
+<p align="center">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/CC2540:1.png" width="200">
+</p>
+
 
 ## TODO
 - research the best protocol and choose it. Then order 10 nodes on eBay.
