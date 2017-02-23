@@ -11,8 +11,11 @@ Network of Mutiple Nodes
 
 ## Application Layer: Software Model
 - Producer/Consumer model with shared buffer, and locking mechanism, (with "condition variable"?).
-- ...
+- Potential issues: deadlock, starvation, ...
 
+<p align="center">
+    <img src="https://www.cs.mtu.edu/~shene/NSF-3/e-Book/SEMA/DIAGRAM-producer.jpg" alt="pyta logo" width="500">
+</p>
 
 ## Network Layer: Topology
 - **TBD**: Star, or Peer-to-Peer, or Mesh
