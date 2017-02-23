@@ -14,7 +14,7 @@ Network of Mutiple Nodes
 - Potential issues: deadlock, starvation, ...
 
 <p align="center">
-    <img src="https://www.cs.mtu.edu/~shene/NSF-3/e-Book/SEMA/DIAGRAM-producer.jpg" width="500">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/prodcon_from_mit.jpg" width="500">
 </p>
 
 ## Network Layer: Topology
