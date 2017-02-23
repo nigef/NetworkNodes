@@ -14,7 +14,7 @@ Network of Mutiple Nodes
 - Potential issues: deadlock, starvation, ...
 
 <p align="center">
-    <img src="https://www.cs.mtu.edu/~shene/NSF-3/e-Book/SEMA/DIAGRAM-producer.jpg" alt="pyta logo" width="500">
+    <img src="https://www.cs.mtu.edu/~shene/NSF-3/e-Book/SEMA/DIAGRAM-producer.jpg" width="500">
 </p>
 
 ## Network Layer: Topology
@@ -22,7 +22,7 @@ Network of Mutiple Nodes
 - Central monitor/hub to aggregate, and display or forward the data. Acts as a secure layer between node network and the internet.
 
 <p align="center">
-    <img src="http://electronicdesign.com/site-files/electronicdesign.com/files/archive/electronicdesign.com/content/content/74728/74728_fig1.gif" alt="pyta logo" width="500">
+    <img src="http://electronicdesign.com/site-files/electronicdesign.com/files/archive/electronicdesign.com/content/content/74728/74728_fig1.gif" width="500">
 </p>
 
 ## Transport/Data/Physical Layer: RF Transceiver Technology
@@ -42,14 +42,14 @@ Network of Mutiple Nodes
 
 
 <p align="center">
-    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/micro.png?raw=true" alt="pyta logo" width="500">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/micro.png?raw=true" alt="arduino" width="500">
 </p>
 
 <p align="center">
-    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/nano.png?raw=true" alt="pyta logo" width="500">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/nano.png?raw=true" alt="arduino" width="500">
 </p>
 
 <p align="center">
-    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/promini.png?raw=true" alt="pyta logo" width="500">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/promini.png?raw=true" alt="arduino" width="500">
 </p>
 
