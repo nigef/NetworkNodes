@@ -29,7 +29,7 @@ Network of Mutiple Nodes
 
 ## TODO
 - research the best protocol and choose it. Then order 10 nodes on eBay.
-- find the best suited Arduino that has enough pins for the transceiver and sensors. Better to lean towards too many pins than too few.
+- find the best suited Arduino that has enough pins for the transceiver and sensors. Better to lean towards too many pins than too few. Price for each ranges from $1.00 to $1.75 on eBay.
 
 
 <p align="center">
