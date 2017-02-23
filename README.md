@@ -30,3 +30,17 @@ Network of Mutiple Nodes
 ## TODO
 - research the best protocol and choose it. Then order 10 nodes on eBay.
 - find the best suited Arduino that has enough pins for the transceiver and sensors. Better to lean towards too many pins than too few.
+
+
+<p align="center">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/micro.png?raw=true" alt="pyta logo" width="500">
+</p>
+
+<p align="center">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/nano.png?raw=true" alt="pyta logo" width="500">
+</p>
+
+<p align="center">
+    <img src="https://github.com/nigef/NetworkNodes/blob/master/images/promini.png?raw=true" alt="pyta logo" width="500">
+</p>
+
