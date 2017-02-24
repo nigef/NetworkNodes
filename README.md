@@ -11,7 +11,8 @@ Network of Mutiple Nodes
 
 ## Application Layer: Software Model
 - Producer/Consumer model with shared buffer, and locking mechanism, (with "condition variable"?).
-- Potential issues: deadlock, starvation, ...
+- Potential interesting issues to encounter: deadlock, starvation, ...
+- Another interesting experience could be practiced with many nodes and a central hub is the concept of "load balancing".
 
 <p align="center">
     <img src="https://github.com/nigef/NetworkNodes/blob/master/images/prodcon_from_mit.jpg" width="500">
@@ -33,7 +34,7 @@ Network of Mutiple Nodes
 - Interestingly [the nRF24L01 can be used to broadcase BLE](http://hackaday.com/2013/09/21/sending-data-over-bluetooth-low-energy-with-a-cheap-nrf24l01-module/) because both use the same protocol
 - Theres also the low energy [ANT™ protocol](https://www.nordicsemi.com/eng/Products/ANT)
 - The alternative, obvious protocol choice is the [WiFi/IEEE-802.11](https://en.wikipedia.org/wiki/IEEE_802.11) protocol used with LAN... which is relatively very high power, high bandwidth, and depends on local network uptime. (This WiFi protocol may not be the best suited choice?)
-- Also note, [Noric semi](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy) makes so many different modules for: BLE, ANT, 2.4 GHZ RF, SUB 1-GHZ RF, ...
+- Also note, [Nordic semi](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy) makes so many different modules for: BLE, ANT, 2.4 GHZ RF, SUB 1-GHZ RF, ...
 
 <p align="center">
     <img src="https://github.com/nigef/NetworkNodes/blob/master/images/NRF24L01.png" width="200">
@@ -45,8 +46,8 @@ Network of Mutiple Nodes
 
 
 ## TODO
-- research the best protocol and choose it. Then order 10 nodes on eBay.
-- find the best suited Arduino that has enough pins for the transceiver and sensors. Better to lean towards too many pins than too few. Price for each ranges from $1.00 to $1.75 on eBay.
+- Research the best protocol to choose... then order 10 nodes on eBay.
+- Find the best suited Arduino that has enough pins for the transceiver and sensors. Better to lean towards too many pins than too few. Price for each ranges from $1.00 to $1.75 on eBay.
 
 
 <p align="center">
